@@ -48,4 +48,6 @@ Additional motorway and bridge-view traffic videos are also used for evaluation.
 4. Run the notebook cells sequentially.
 5. Output includes annotated video frames and speed logs.
 
+## Demo Video
+Demo video link: https://youtu.be/enf79AOKATQ
 
